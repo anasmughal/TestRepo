@@ -9,7 +9,7 @@ public class TestGit {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("Hello world 3232");
+		System.out.println("Hello world!");
 		
 	}
 
